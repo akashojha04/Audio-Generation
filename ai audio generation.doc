@@ -1,0 +1,19 @@
+project : AI Audio 
+
+Deep Learning
+LSTM
+sequence modeling
+midi processing
+music generation
+tensorflow/keras
+
+project workflow
+Dataset
+
+read midi files
+
+extract notes
+
+convert notes into number
+
+create input sequence
